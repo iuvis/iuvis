@@ -1,6 +1,6 @@
 ### A little bit about myself
 
-JavaScript developer with around 4 years of experience. I started out in gamedev, building complex in-game interfaces, where attention to detail really mattered. Later, I initiated a development of a B2B project — a platform for managing and participating in tenders. My main stack includes React, TypeScript, Redux, Zustand, ShadCN, and Framer Motion. I’m also comfortable working full-stack with NestJS, Prisma, Docker, and PostgreSQL. 
+JavaScript developer with around 4 years of experience. I started out in gamedev, building complex in-game interfaces, where attention to detail really mattered. Also, I initiated a development of a B2B project — a platform for managing and participating in tenders. My main stack includes React, TypeScript, Redux, Zustand, ShadCN, and Framer Motion. I’m also comfortable working full-stack with NestJS, Prisma, Docker, and PostgreSQL. 
 
 ### Socials
 
