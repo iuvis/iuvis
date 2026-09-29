@@ -1,6 +1,15 @@
-### A little bit about myself
+### What Am I
 
-JavaScript developer with around 4 years of experience. I started out in gamedev, building complex in-game interfaces, where attention to detail really mattered. Also, I initiated a development of a B2B project — a platform for managing and participating in tenders. My main stack includes React, TypeScript, Redux, Zustand, ShadCN, and Framer Motion. I’m also comfortable working full-stack with NestJS, Prisma, Docker, and PostgreSQL. 
+**3+** Years at corporate development <br/>
+**4+** Years as a Frontend development 
+
+
+Numbers are out of the way, so here’s a bit for those who are actually interested.
+
+- I’ve been into programming since around 2018. I’ve tried web development and spent quite a while in game dev, mostly working on in-game interfaces.
+- I really enjoy working on things I genuinely care about. I especially love building products with a real user base, because you get actual feedback from real people — something you can see, feel, and learn from.
+- Since February 2026, I’ve been building my own marketing analytics platform.
+
 
 ### Socials
 
