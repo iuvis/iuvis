@@ -8,7 +8,7 @@ Numbers are out of the way, so here’s a bit for those who are actually interes
 
 - I’ve been into programming since around 2018. I’ve tried web development and spent quite a while in game dev, mostly working on in-game interfaces.
 - I really enjoy working on things I genuinely care about. I especially love building products with a real user base, because you get actual feedback from real people — something you can see, feel, and learn from.
-- Since February 2026, I’ve been building my own marketing analytics platform.
+- Since February 2026, I’ve been working on my own platform for marketing analytics and data analysis. As of September 29, 2026, I’d say it’s the most challenging project I’ve worked on so far. It involves a fairly large infrastructure setup and a lot of business logic, with plans to eventually have parts of it written in different programming languages.
 
 
 ### Socials
