@@ -1,7 +1,7 @@
 ### What Am I
 
 **3+** Years at corporate development <br/>
-**4+** Years as a Frontend development 
+**4+** Years in Frontend development 
 
 
 Numbers are out of the way, so here’s a bit for those who are actually interested.
